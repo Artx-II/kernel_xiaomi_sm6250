@@ -4,7 +4,7 @@
 #
 
 # Bukka Config
-
+CONFIG_FORCE_FAST_CHARGE=y
 
 CONFIG_ARM64=y
 CONFIG_64BIT=y
