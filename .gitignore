@@ -43,6 +43,16 @@ Module.symvers
 modules.builtin
 
 #
+# IPA
+#
+ipa_common
+
+#
+# dtbo
+#
+cust*-atoll-ab-idp-overlay.dtbo
+
+#
 # Top-level generic files
 #
 /tags
